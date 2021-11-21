@@ -4,6 +4,11 @@
         "policies": [
             "2f2302076879e3d980138aa6a65ba3b73e1fd68fec3873639257e6e0",
             "a0391188e8a83bcbc51a2ed575551532db898e4d94b2a8f43825c74b"
+        ],
+       "tages": "Cardano Friends Club",
+       "policies": [
+            "322bd040ef04c8ce4707bb8b7bbfd30abd72ad700dbd09f1bccfcbe6"
+           
         ]
     },
     {
