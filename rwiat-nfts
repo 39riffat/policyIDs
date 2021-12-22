@@ -12,6 +12,13 @@
         ]
     },
     {
+        "project": "Cardano Friends Club",
+        "policies": [
+            "322bd040ef04c8ce4707bb8b7bbfd30abd72ad700dbd09f1bccfcbe6",
+            "a0391188e8a83bcbc51a2ed575551532db898e4d94b2a8f43825c74b"
+        ]
+    },
+    {
         "project": "Jurassic Club NFTs",
         "policies": [
             "6ca288470a332a534a789f607aa841e1176473a380e131dbbb45012b"
